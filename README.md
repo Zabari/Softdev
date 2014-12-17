@@ -25,13 +25,16 @@ A Facebook chat analyzer
 #### https://github.com/PhilippSteinmann/IsSheReallyIntoYou.git
 
 ## Mini Projects
-
+ * invisible-cow
+  * Daniel Zabari, Philipp Steinmann
+  * 6/invisible-cow/Philipp_Daniel/KonamiJesus
  * login
   * Daniel Zabari, Genji Noguchi
   * 6/login/genji_daniel
  * regexp
   * Daniel Zabari, Sophie Gershon 
-	* 6/regexp/sophie_daniel
+  * 6/regexp/sophie_daniel
  * intro-proj 1
   * Daniel Zabari, Natan Zamansky
   * 6/intro-proj1/ZSquared
+
