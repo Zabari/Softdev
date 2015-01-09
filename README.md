@@ -6,6 +6,12 @@ Period 6
 
 ## Main Projects
 
+### Final Project/EscalatorHaus
+#### Philipp Steinmann, Aaron Mortenson, Andrew Fischer
+#### Description
+Determine if the escalators are working, or not working.
+#### https://github.com/Zabari/EscalatorHaus.git
+
 ### Language Interpreter/Data Scraping
 #### Terrence Liang, Oliver Zhang, Lawrence Lim
 #### Description
