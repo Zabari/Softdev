@@ -10,7 +10,7 @@ Period 6
 #### Philipp Steinmann, Aaron Mortenson, Andrew Fischer
 #### Description
 Determine if the escalators are working, or not working.
-#### https://github.com/Zabari/SETS.git
+#### https://github.com/Zabari/STEPS.git
 
 ### Language Interpreter/Data Scraping
 #### Terrence Liang, Oliver Zhang, Lawrence Lim
